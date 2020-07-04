@@ -21,6 +21,3 @@ Unten links ist Platz für ein paar DIN A4 Ordner.
 * Schrauben
 * Holzschutz Lasur
 
-## Kosten
-
-folgt nach Fertigstellung
