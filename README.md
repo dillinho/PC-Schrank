@@ -21,3 +21,5 @@ Unten links ist Platz für ein paar DIN A4 Ordner.
 * Schrauben
 * Holzschutz Lasur
 
+
+3D-Modell erstellt mit [FreeCAD](https://www.freecadweb.org/)
